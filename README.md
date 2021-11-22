@@ -1,6 +1,12 @@
 # Breaking-a-mini-brick-game
+* 완성본(기능구현이 더 추가됨)
 
 https://user-images.githubusercontent.com/72932028/142924453-ffb3075d-efc3-4fe1-8d38-1bef62160003.mp4
+
+* 미완성본
+
+https://user-images.githubusercontent.com/72932028/142931770-c6f1bffa-db6b-4005-8131-0112423758e4.mp4
+
 
 <1. 프로그램명>
 미니 벽돌깨기 게임의 완성
