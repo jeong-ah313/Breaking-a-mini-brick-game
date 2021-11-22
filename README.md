@@ -1,6 +1,5 @@
 # Breaking-a-mini-brick-game
 
-4. 구현 영상-디버그실행
 https://user-images.githubusercontent.com/72932028/142924453-ffb3075d-efc3-4fe1-8d38-1bef62160003.mp4
 
 1. 프로그램명 : 미니 벽돌깨기 게임의 완성
@@ -14,7 +13,8 @@ https://user-images.githubusercontent.com/72932028/142924453-ffb3075d-efc3-4fe1-
   
   메인함수에서는 bar_x와 bar_y(바의 x, y 좌표), ball_x와 ball_y(공의 x, y 좌표), block_x와 block_y(블록의 x,y좌표), dx와 dy(x, y의 좌표 이동값), i(블록을 그려주기 위해 필요한 변수), meet(6개의 블록 중에 충돌한 블록의 개수)와 meet0~6(충돌한 블록을 구별해 주기 위해 필요한 변수)들의 값들을 설정해주었다.
 
-   알고리즘 설명(처리 순서를 번호를 붙여 말로 요약 설명) : 
+   알고리즘 설명 : 
+   
 ① “PRESS ANY KEY!”가 출력된 화면이 보이면, 키보드의 아무 키나 누른다.
 
 ② 공이 내려오면서 벽돌을 깨는 게임이 시작된다.
