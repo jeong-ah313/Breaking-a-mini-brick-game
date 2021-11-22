@@ -1,0 +1,4 @@
+﻿  Breaking-a-mini-brick-game.c
+C:\Users\user\Desktop\git\Breaking-a-mini-brick-game\Breaking-a-mini-brick-game\Breaking-a-mini-brick-game.c(39,1): warning C4133: '초기화 중': 'unsigned short [15]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\git\Breaking-a-mini-brick-game\Breaking-a-mini-brick-game\Breaking-a-mini-brick-game.c(40,1): warning C4133: '초기화 중': 'unsigned short [11]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+  Breaking-a-mini-brick-game.vcxproj -> C:\Users\user\Desktop\git\Breaking-a-mini-brick-game\Breaking-a-mini-brick-game\Debug\Breaking-a-mini-brick-game.exe
